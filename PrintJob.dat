@@ -1,0 +1,191 @@
+[PrintJob]
+Name=Classic Handmade_CARAMEL_3x12-3x6_CMYK_A6
+Preview=Preview.tif
+Date=29/08/2025 - 15:04:18
+ResH=250.00
+ResV=400.00
+DimH=3120
+DimV=1261
+Levels=4,3,2,1,0
+Bpp=2
+Channels=10
+Format=Classic Handmade_CARAMEL_3x12-3x6_CMYK_A6_%i.tif
+Inks=Cyan Cyan Brown Beige Black Pink Blue Yellow Luster Reactive 
+Scheme=INCEPA CL LINHA 03 GS250X400
+ColorProfile=Mono2_F3_Branco-AC-Esmalglass_15X45_CMYK_180825.icm
+Curve=C:\kerajet\Software\ColorDirect\Curves ColorDirect\INCEPA CL LINHA 03 GS 250X400.acv
+Origen=KERAjet ColorDirect 25.6.3
+
+
+KDots_Classic Handmade_CARAMEL_3x12-3x6_CMYK_A6_1.tif_Cyan = 0,0,0
+KDots_Classic Handmade_CARAMEL_3x12-3x6_CMYK_A6_2.tif_Cyan = 0,0,0
+KDots_Classic Handmade_CARAMEL_3x12-3x6_CMYK_A6_3.tif_Brown = 1655030,405228,98571
+KDots_Classic Handmade_CARAMEL_3x12-3x6_CMYK_A6_4.tif_Beige = 0,0,0
+KDots_Classic Handmade_CARAMEL_3x12-3x6_CMYK_A6_5.tif_Black = 545564,36190,17244
+KDots_Classic Handmade_CARAMEL_3x12-3x6_CMYK_A6_6.tif_Pink = 0,0,0
+KDots_Classic Handmade_CARAMEL_3x12-3x6_CMYK_A6_7.tif_Blue = 0,0,0
+KDots_Classic Handmade_CARAMEL_3x12-3x6_CMYK_A6_8.tif_Yellow = 2273780,727632,269335
+KDots_Classic Handmade_CARAMEL_3x12-3x6_CMYK_A6_9.tif_Luster = 0,0,0
+KDots_Classic Handmade_CARAMEL_3x12-3x6_CMYK_A6_10.tif_Reactive = 0,0,124839
+
+
+[Channel_1]
+Color=Cyan
+ResH=250.00
+ResV=400.00
+DimH=3120
+DimV=1261
+Bpp=2
+Halftone=Smooth Stochastic
+AL=1.0
+Levels=4,3,2,1,0
+Dots=0
+Dots_Level_1=2655030
+Dots_Level_2=805228
+Dots_Level_3=188571
+
+
+[Channel_2]
+Color=Cyan
+ResH=250.00
+ResV=400.00
+DimH=3120
+DimV=1261
+Bpp=2
+Halftone=Smooth Stochastic
+AL=1.0
+Levels=4,3,2,1,0
+Dots=0
+Dots_Level_1=2655030
+Dots_Level_2=805228
+Dots_Level_3=188571
+
+
+[Channel_3]
+Color=Brown
+ResH=250.00
+ResV=400.00
+DimH=3120
+DimV=1261
+Bpp=2
+Halftone=Smooth Stochastic
+AL=1.0
+Levels=4,3,2,1,0
+Dots=2158829
+Dots_Level_1=2655030
+Dots_Level_2=805228
+Dots_Level_3=188571
+
+
+[Channel_4]
+Color=Beige
+ResH=250.00
+ResV=400.00
+DimH=3120
+DimV=1261
+Bpp=2
+Halftone=Smooth Stochastic
+AL=1.0
+Levels=4,3,2,1,0
+Dots=0
+Dots_Level_1=0
+Dots_Level_2=0
+Dots_Level_3=0
+
+
+[Channel_5]
+Color=Black
+ResH=250.00
+ResV=400.00
+DimH=3120
+DimV=1261
+Bpp=2
+Halftone=Smooth Stochastic
+AL=1.0
+Levels=4,3,2,1,0
+Dots=598998
+Dots_Level_1=545564
+Dots_Level_2=96190
+Dots_Level_3=37244
+
+
+[Channel_6]
+Color=Pink
+ResH=250.00
+ResV=400.00
+DimH=3120
+DimV=1261
+Bpp=2
+Halftone=Smooth Stochastic
+AL=1.0
+Levels=4,3,2,1,0
+Dots=0
+Dots_Level_1=0
+Dots_Level_2=0
+Dots_Level_3=0
+
+
+[Channel_7]
+Color=Blue
+ResH=250.00
+ResV=400.00
+DimH=3120
+DimV=1261
+Bpp=2
+Halftone=Smooth Stochastic
+AL=1.0
+Levels=4,3,2,1,0
+Dots=0
+Dots_Level_1=0
+Dots_Level_2=0
+Dots_Level_3=0
+
+
+[Channel_8]
+Color=Yellow
+ResH=250.00
+ResV=400.00
+DimH=3120
+DimV=1261
+Bpp=2
+Halftone=Smooth Stochastic
+AL=1.0
+Levels=4,3,2,1,0
+Dots=3270747
+Dots_Level_1=2273780
+Dots_Level_2=727632
+Dots_Level_3=269335
+
+
+[Channel_9]
+Color=Luster
+ResH=250.00
+ResV=400.00
+DimH=3120
+DimV=1261
+Bpp=2
+Halftone=Smooth Stochastic
+AL=1.0
+Levels=4,3,2,1,0
+Dots=0
+Dots_Level_1=0
+Dots_Level_2=0
+Dots_Level_3=0
+
+
+[Channel_10]
+Color=Reactive
+ResH=250.00
+ResV=400.00
+DimH=3120
+DimV=1261
+Bpp=2
+Halftone=Smooth Stochastic
+AL=1.0
+Levels=4,3,2,1,0
+Dots=124839
+Dots_Level_1=0
+Dots_Level_2=0
+Dots_Level_3=124839
+
+
